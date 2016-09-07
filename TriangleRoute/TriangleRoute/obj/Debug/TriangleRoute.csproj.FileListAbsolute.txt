@@ -1,0 +1,7 @@
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\bin\Debug\TriangleRoute.exe.config
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\bin\Debug\TriangleRoute.exe
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\bin\Debug\TriangleRoute.pdb
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\obj\Debug\TriangleRoute.csprojResolveAssemblyReference.cache
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\obj\Debug\TriangleRoute.exe
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\obj\Debug\TriangleRoute.pdb
+D:\Archive\Git_managed\TriangleRoute\TriangleRoute\TriangleRoute\bin\Debug\Program.cs
